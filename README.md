@@ -1,8 +1,8 @@
 # 🗺️ 台灣區域天氣預報互動式地圖
 
 ### 🔗 網頁即時預覽 (Live App)
-👉 **[https://buffer-have-geometry-invision.trycloudflare.com](https://buffer-have-geometry-invision.trycloudflare.com)**
-*(註：網頁採用 Cloudflare Tunnel 託管，點擊即可直接開啟瀏覽)*
+👉 **[https://1014weatherpage-qwymqshg45fatz9vprv8ap.streamlit.app/](https://1014weatherpage-qwymqshg45fatz9vprv8ap.streamlit.app/)**
+*(註：網頁已永久部署於 Streamlit Community Cloud，可隨時開啟瀏覽)*
 
 ---
 
